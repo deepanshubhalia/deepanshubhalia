@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on: AI-powered applications and full-stack web development projects<br>I'm looking to collaborate on: Open-source projects, AI/ML applications, and innovative web solutions<br>I'm looking for help with: Advanced system design, competitive programming, and scalable backend development<br>I'm currently learning: MERN Stack, AI/ML, and modern software engineering practices<br>Ask me about: C++, DSA, Web Development, AI Projects, and Competitive Programming<br>Fun fact: National-level Table Tennis player, 500+ LeetCode problems solved, and a coding contest runner-up
 
 
